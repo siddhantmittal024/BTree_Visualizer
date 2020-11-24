@@ -12,4 +12,4 @@
 
 #### Searching Implemented
 
-![Searching](Searching.jpg)
+![Searching](Search.jpg)
